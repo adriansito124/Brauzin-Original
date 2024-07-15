@@ -1,0 +1,9 @@
+-raro: colt, el primo, bull, brock
+
+-super-raro: jessie, 8-bit, rico, penny
+
+-épico: piper, pam, bibi, bea, edgar, grif, bonnie, colette, belle, ash, lola, mandy, maisie, hank, sam
+
+-mítico: mortis, tara, max, mister p, byron, squeak, lou, ruffs, buzz, fang, otis, gray, charlie, mico, melodie, doug, r-t, janet
+
+-lendario: spike, leon, chester, meg, amber
