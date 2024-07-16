@@ -1,0 +1,13 @@
+destruidor: shelly, nita, colt, 8-bit, rico, carl, colette, lola, pearl, tara, eve, chuck, spike, wattson, r-t, chester
+
+tanque: bull, el primo, rosa, darryl, jacky, frank, bibi, ash, hank, buster, meg, draco
+
+sniper: brock, piper, bea, nani, bonnie, belle, mandy, maisie, angelo, janet
+
+detonador: barley, dinamyke, tick, penny, grom, larry, sprout
+
+suporte: poco, gus, pam, berry, max, byron, ruffs, gray, doug, kit
+
+controle: jessie, bo, emz, griff, gale, eugênio, mr p, squeak, lou, otis, willow, charlie, sandy, amber
+
+algoz: stu, edgar, sam, mortis, buzz, fang, mico, melodie, corco, leon, cordelius, lily
