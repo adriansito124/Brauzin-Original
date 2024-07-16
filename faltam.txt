@@ -1,9 +1,9 @@
 -raro: colt, el primo, bull, brock, poco
 
--super-raro: jessie, 8-bit, rico, penny, darryl, carl, jacky
+-super-raro: 8-bit, rico, darryl, carl
 
--épico: piper, pam, bibi, bea, edgar, grif, bonnie, colette, belle, ash, lola, mandy, maisie, hank, sam, bo, frank, nani, gale, pearl, angelo
+-épico: piper, bea, edgar, grif, bonnie, colette, belle, ash, lola, mandy, maisie, hank, sam, bo, frank, gale, angelo
 
--mítico: mortis, tara, max, mister p, byron, squeak, lou, ruffs, buzz, fang, otis, gray, charlie, mico, melodie, doug, r-t, janet, eugênio, chuck
+-mítico: mortis, mister p, byron, squeak, lou, ruffs, buzz, fang, otis, gray, mico, doug, r-t, eugênio, chuck
 
--lendario: spike, leon, chester, meg, amber, corvo, kit, draco, cordelius
+-lendario: spike, leon, chester, corvo, kit, draco, cordelius
