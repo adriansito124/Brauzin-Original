@@ -1,11 +1,11 @@
-destruidor: 8-bit, rico, carl, colette, lola, pearl, tara, eve, spike, wattson, chester
+destruidor: 8-bit, rico, carl, colette, lola, tara, eve
 
-tanque: bull, el primo, rosa, jacky, frank, ash, hank, buster, meg, draco
+tanque: bull, el primo, rosa, jacky, frank, ash, hank, buster
 
 sniper: brock, piper, bea, nani, bonnie, belle, mandy, maisie, angelo, janet
 
 suporte: gus, pam, berry, max, byron, gray, kit
 
-controle: bo, emz, gale, squeak, otis, willow, charlie, sandy, amber, eugenio
+controle: bo, emz, gale, squeak, otis, willow, charlie, eugenio
 
-algoz: edgar, sam, mortis, buzz, corvo, leon, cordelius, lily
+algoz: edgar, sam, mortis, buzz, lily

@@ -1,4 +1,4 @@
--raro:  el primo, bull, brock
+-raro:  el primo, bull
 
 -super-raro: 8-bit, rico, carl
 
