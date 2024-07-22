@@ -70,4 +70,28 @@ main {
     font-weight: bold;
     border: 2px black solid;
     border-radius: 15px;
-  }
+}
+
+.image-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.image-button img {
+    display: block;
+}
+
+.maior {
+    height: 450px;
+}
+
+.separar {
+    display: flex;
+    justify-content: center;
+}
+
+.big {
+    height: 500px;
+}
